@@ -11,6 +11,7 @@ Unlike standard content-agnostic resizing techniques (such as cropping and scali
 
 ### Example
 This image here was reduced in size by 30%
+
 ![image](https://user-images.githubusercontent.com/86267678/155808300-bbf535f1-00c8-4934-a033-3113ea4dd38c.png)
 ![image](https://user-images.githubusercontent.com/86267678/155808307-0c8eb84c-2c9e-42d0-a12b-00b8ba3a4af0.png)
 
